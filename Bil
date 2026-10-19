@@ -1,4 +1,3 @@
-# billingSales
 import java.util.Scanner;
  
 public class ItemBill {
